@@ -15,26 +15,11 @@ const data = [
     label: 'Github',
     icon: faGithub,
   },
-  // {
-  //   link: 'https://facebook.com/md',
-  //   label: 'Facebook',
-  //   icon: faFacebookF,
-  // },
-  // {
-  //   link: 'https://www.instagram.com/dangelosaurus/',
-  //   label: 'Instagram',
-  //   icon: faInstagram,
-  // },
   {
     link: 'https://www.linkedin.com/in/tony-davis-696487112/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
-  // {
-  //   link: 'https://angel.co/michael-d-angelo',
-  //   label: 'Angel List',
-  //   icon: faAngellist,
-  // },
   {
     link: 'https://twitter.com/TonyD993',
     label: 'Twitter',
