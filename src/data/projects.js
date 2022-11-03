@@ -7,19 +7,17 @@ const data = [
     image: '/images/projects/haucs2.jpg',
     date: '2022-11-20',
     desc:
-      'My Master\'s thesis to develop a path planning algorithm for a robotic water quality monitoring system.'
+      'My Master\'s thesis to develop a path planning algorithm for a robotic water quality monitoring system. '
       + 'It is intended for aquaculture farmers to easily maintain appropriate water quality for their fish.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'WinRo',
+    subtitle: 'The creatively named Window Cleaning Robot',
+    image: '/images/projects/winro_cad.jpg',
+    date: '2016-12-01',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'OSU Mechanical Engineering capstone project to design and build a window sill cleaning robot. '
+      + 'It didn\'t work great, but it was a fun project.',
   },
   {
     title: 'Space Potato',
