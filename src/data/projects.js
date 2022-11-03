@@ -8,7 +8,7 @@ const data = [
     date: '2022-11-20',
     desc:
       'My Master\'s thesis to develop a path planning algorithm for a robotic water quality monitoring system.'
-      + 'It is intended for aquaculture farmers to easily maintain appropriate water quality for their fish.'
+      + 'It is intended for aquaculture farmers to easily maintain appropriate water quality for their fish.',
   },
   {
     title: 'Harvest',
