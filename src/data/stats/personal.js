@@ -30,6 +30,16 @@ const data = [
     value: 110,
   },
   {
+    key: 'dives',
+    label: 'Dives logged',
+    value: 49,
+  },
+  {
+    key: 'belt',
+    label: 'Jiu Jitsu belt progress',
+    value: '4 stripes white belt',
+  },
+  {
     key: 'location',
     label: 'Current city',
     value: 'Fort Lauderdale, FL',
