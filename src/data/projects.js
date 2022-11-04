@@ -13,7 +13,7 @@ const data = [
   {
     title: 'WinRo',
     subtitle: 'The creatively named Window Cleaning Robot',
-    image: '/images/projects/winro_cad.png',
+    image: '/images/projects/winro_cad.jpg',
     date: '2016-12-01',
     desc:
       'OSU Mechanical Engineering capstone project to design and build a window sill cleaning robot. '
