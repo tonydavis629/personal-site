@@ -26,17 +26,17 @@ const data = [
     image: '/images/projects/grav.jpg',
     date: '2021-08-21',
     desc:
-      'Detect gravitational waves from space using a convolutional neural network. Kaggle competition entry with an .80 AUC score.',
+      'Detect gravitational waves from space using a convolutional neural network. It was a Kaggle competition entry with an .80 AUC score. We didn\'t win.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
+    title: 'Tumor Cell Extravasation Simulation',
+    subtitle: 'A MATLAB simulation of tumor cell extravasation',
+    link: 'https://github.com/tonydavis629/Tumor-Cell-Extravasation-Simulation',
+    image: '/images/projects/adhesion_c.jpg',
     date: '2015-05-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Receptor ligand kinetics were used to simulate how a tumor cell sticks to and moves through blood vessel walls. '
+      + 'Experimental measurements of zero-force unbinding constants were used to validate the model.',
   },
 ];
 
