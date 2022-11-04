@@ -7,8 +7,8 @@ const data = [
     image: '/images/projects/haucs.jpg',
     date: '2022-11-20',
     desc:
-      'My Master\'s thesis to develop a path planning algorithm for a robotic water quality monitoring system. '
-      + 'It is intended for aquaculture farmers to easily maintain appropriate water quality for their fish.',
+      'My Master\'s thesis to develop and implement path planning algorithms for a robotic water quality monitoring system. '
+      + 'It is intended to help aquaculture farmers easily maintain appropriate water quality for their fish.',
   },
   {
     title: 'WinRo',
@@ -26,7 +26,7 @@ const data = [
     image: '/images/projects/grav.jpg',
     date: '2021-08-21',
     desc:
-      'Detect gravitational waves from space using a convolutional neural network. Kaggle competition entry with .80 AUC score.',
+      'Detect gravitational waves from space using a convolutional neural network. Kaggle competition entry with an .80 AUC score.',
   },
   {
     title: 'Cat Detector',
