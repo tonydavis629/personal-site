@@ -13,16 +13,16 @@ const data = [
   {
     title: 'WinRo',
     subtitle: 'The creatively named Window Cleaning Robot',
-    image: '/images/projects/winro_cad.jpg',
+    image: '/images/projects/winro_cad.png',
     date: '2016-12-01',
     desc:
       'OSU Mechanical Engineering capstone project to design and build a window sill cleaning robot. '
       + 'It didn\'t work great, but it was a fun project.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
+    title: 'Gravitational Wave Detector',
+    subtitle: 'A Kaggle Competition Entry',
+    link: 'https://github.com/tonydavis629/G2Net',
     image: '/images/projects/spacepotato.jpg',
     date: '2015-06-28',
     desc:
