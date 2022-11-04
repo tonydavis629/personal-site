@@ -4,7 +4,7 @@ const data = [
     title: 'The Hybrid Aerial Underwater Robotic System',
     subtitle: 'Master\'s Thesis',
     link: 'https://github.com/tonydavis629/HAUCS',
-    image: '/images/projects/haucs2.jpg',
+    image: '/images/projects/haucs.jpg',
     date: '2022-11-20',
     desc:
       'My Master\'s thesis to develop a path planning algorithm for a robotic water quality monitoring system. '
@@ -23,12 +23,10 @@ const data = [
     title: 'Gravitational Wave Detector',
     subtitle: 'A Kaggle Competition Entry',
     link: 'https://github.com/tonydavis629/G2Net',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    image: '/images/projects/grav.jpg',
+    date: '2021-08-21',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Detect gravitational waves from space using a convolutional neural network. Kaggle competition entry with .80 AUC score.',
   },
   {
     title: 'Cat Detector',
