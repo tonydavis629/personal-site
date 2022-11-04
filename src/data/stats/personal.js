@@ -26,7 +26,7 @@ const data = [
   },
   {
     key: 'countries',
-    label: 'Shotglasses collected from countries and cities',
+    label: 'Shotglasses collected from travels',
     value: 110,
   },
   {
