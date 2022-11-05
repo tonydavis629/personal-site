@@ -57,7 +57,7 @@ const positions = [
     daterange: 'December 2016 – September 2019',
     points: [
       'Planned and executed tactical and strategic training operations at the Joint Multinational Readiness Center in Hohenfels, Germany.',
-      'Maintained invesntory and accountability of over $1 million worth of equipment.',
+      'Maintained inventory and accountability of over $1 million worth of equipment.',
     ],
   },
 ];
