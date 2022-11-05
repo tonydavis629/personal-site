@@ -1,7 +1,7 @@
 
 # Intro
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am currently a graduate student at Florida Atlantic University, graduating December 2022 with a Master's in Artificial Intelligence. Isn't that cool that AI is now a degree program? I'm really fascinated in the how the nature of knowledge is being probed by developing ever more intelligent automated systems. My research involves investigating how AI can be used to enable automated aquaculture management systems. I hope my work can lead to technology that supports more harmonious relationships between man, technology and nature. 
 
 # Currently
 
