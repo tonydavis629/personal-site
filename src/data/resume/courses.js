@@ -1,5 +1,5 @@
 const courses = [
-   {
+  {
     title: 'Smart Materials and Intelligent Systems',
     number: 'MECHENG 5374',
     link: 'https://mae.osu.edu/courses',
