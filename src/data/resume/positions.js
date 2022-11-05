@@ -9,7 +9,7 @@ const positions = [
     ],
   },
   {
-    company: 'Florida Atlantic University - Harbor Branch Oceanographic Institute',
+    company: 'Harbor Branch Oceanographic Institute at FAU',
     position: 'Graduate Research Assistant',
     link: 'https://www.fau.edu/hboi/',
     daterange: 'September 2021 - Present',
@@ -42,7 +42,7 @@ const positions = [
   },
   {
     company: 'Motorola Solutions, Inc.',
-    position: 'Mechanical Engineering',
+    position: 'Mechanical Engineer',
     link: 'https://www.motorolasolutions.com/en_us.html',
     daterange: 'September 2019 - May 2019',
     points: [
