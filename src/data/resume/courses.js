@@ -1,59 +1,5 @@
 const courses = [
-  {
-    title: 'Deep Learning',
-    number: 'CAP 6619',
-    link: 'https://www.fau.edu/engineering/eecs/graduate/syllabi-ce-cs/pdf/cap6619deep-learning.pdf',
-    university: 'Florida Atlantic University',
-  },
-  {
-    title: 'AI in Medicine and Healthcare',
-    number: 'CAP 6974',
-    link: 'https://www.fau.edu/academic/registrar/FAUcatalog/engineeringDES.php',
-    university: 'Florida Atlantic University',
-  },
-  {
-    title: 'Intro to Neural Networks',
-    number: 'CAP 5615',
-    link: 'https://www.cse.fau.edu/~xqzhu/courses/cap5615.html',
-    university: 'Florida Atlantic University',
-  },
-  {
-    title: 'Robotic Applications',
-    number: 'EEL 5661',
-    link: 'https://www.fau.edu/engineering/eecs/graduate/syllabi-ee/pdf/eel5661robotic-applications.pdf',
-    university: 'Florida Atlantic University',
-  },
-  {
-    title: 'Computational Foundations of AI',
-    number: 'CAP 5625',
-    link: 'https://www.fau.edu/engineering/eecs/graduate/syllabi-ce-cs/pdf/cap5625computational-foundations-of-artificial-intelligence.pdf',
-    university: 'Florida Atlantic University',
-  },
-  {
-    title: 'Advanced Data Mining & Machine Learning',
-    number: 'CAP 6673, 6778',
-    link: 'https://www.fau.edu/academic/registrar/FAUcatalog/engineeringDES.php',
-    university: 'Florida Atlantic University',
-  },
-  {
-    title: 'Artificial Intelligence',
-    number: 'CAP 6635',
-    link: 'https://www.fau.edu/academic/registrar/FAUcatalog/engineeringDES.php',
-    university: 'Florida Atlantic University',
-  },
-  {
-    title: 'Data Structures and Algorithm Analysis',
-    number: 'COP 3530',
-    link: 'https://www.fau.edu/engineering/eecs/undergraduate/syllabi-ce-cs/cop3530data-structures-algorithm-analysis.pdf',
-    university: 'Florida Atlantic University',
-  },
-  {
-    title: 'Discrete Mathematics',
-    number: 'MAD 2104',
-    link: 'http://math.fau.edu/~eisenbarth/pdf/MAD2104SyllabusF11.pdf',
-    university: 'Florida Atlantic University',
-  },
-  {
+   {
     title: 'Smart Materials and Intelligent Systems',
     number: 'MECHENG 5374',
     link: 'https://mae.osu.edu/courses',
@@ -162,6 +108,60 @@ const courses = [
     number: 'ISE 4500',
     link: 'https://ise.osu.edu/courses',
     university: 'Ohio State University',
+  },
+  {
+    title: 'AI in Medicine and Healthcare',
+    number: 'CAP 6974',
+    link: 'https://www.fau.edu/academic/registrar/FAUcatalog/engineeringDES.php',
+    university: 'Florida Atlantic University',
+  },
+  {
+    title: 'Intro to Neural Networks',
+    number: 'CAP 5615',
+    link: 'https://www.cse.fau.edu/~xqzhu/courses/cap5615.html',
+    university: 'Florida Atlantic University',
+  },
+  {
+    title: 'Robotic Applications',
+    number: 'EEL 5661',
+    link: 'https://www.fau.edu/engineering/eecs/graduate/syllabi-ee/pdf/eel5661robotic-applications.pdf',
+    university: 'Florida Atlantic University',
+  },
+  {
+    title: 'Computational Foundations of AI',
+    number: 'CAP 5625',
+    link: 'https://www.fau.edu/engineering/eecs/graduate/syllabi-ce-cs/pdf/cap5625computational-foundations-of-artificial-intelligence.pdf',
+    university: 'Florida Atlantic University',
+  },
+  {
+    title: 'Advanced Data Mining & Machine Learning',
+    number: 'CAP 6673, 6778',
+    link: 'https://www.fau.edu/academic/registrar/FAUcatalog/engineeringDES.php',
+    university: 'Florida Atlantic University',
+  },
+  {
+    title: 'Artificial Intelligence',
+    number: 'CAP 6635',
+    link: 'https://www.fau.edu/academic/registrar/FAUcatalog/engineeringDES.php',
+    university: 'Florida Atlantic University',
+  },
+  {
+    title: 'Data Structures and Algorithm Analysis',
+    number: 'COP 3530',
+    link: 'https://www.fau.edu/engineering/eecs/undergraduate/syllabi-ce-cs/cop3530data-structures-algorithm-analysis.pdf',
+    university: 'Florida Atlantic University',
+  },
+  {
+    title: 'Discrete Mathematics',
+    number: 'MAD 2104',
+    link: 'http://math.fau.edu/~eisenbarth/pdf/MAD2104SyllabusF11.pdf',
+    university: 'Florida Atlantic University',
+  },
+  {
+    title: 'Deep Learning',
+    number: 'CAP 6619',
+    link: 'https://www.fau.edu/engineering/eecs/graduate/syllabi-ce-cs/pdf/cap6619deep-learning.pdf',
+    university: 'Florida Atlantic University',
   },
 ];
 
