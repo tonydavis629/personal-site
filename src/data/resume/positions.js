@@ -44,7 +44,7 @@ const positions = [
     company: 'Motorola Solutions, Inc.',
     position: 'Mechanical Engineer',
     link: 'https://www.motorolasolutions.com/en_us.html',
-    daterange: 'September 2019 - May 2019',
+    daterange: 'September 2019 - May 2021',
     points: [
       'Developed mechanical components for the APX NEXT radio and APX 8000 radio.',
       'Maintained current product lines with customer informed design changes and improvements.',
