@@ -40,6 +40,11 @@ const data = [
     value: '4 stripes white belt',
   },
   {
+    key: 'CSGO',
+    label: 'Counter Strike Global Offensive rank',
+    value: 'Legendary Eagle',
+  },
+  {
     key: 'location',
     label: 'Current city',
     value: 'Fort Lauderdale, FL',

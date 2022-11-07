@@ -9,13 +9,17 @@ I am working on a lot of different things (read: too many things) at the moment.
 
 # Some history
 
-- Age 3: I learned to swim, which was the beginning of my 
+- Age 3: I learned to swim, and I was on the swim team for like 10 years. 
 
 - Age 6: I learned to tie my shoes after years of wearing velcro straps.  
 
-- Age 12: I picked up the guitar and got really obsessed with it. I still have a passion for music, but nowadays I play the [Gotar](https://www.starrlabs.com/product/gotar-2/).
+- Age 12: I picked up the guitar and got really obsessed with it. I played a guitar solo at my middle school band recital. I still have a passion for music, but nowadays I play the [Gotar](https://www.starrlabs.com/product/gotar-2/).
 
-- Age 
+- Age 14: I started on the wrestling team in sophomore year of high school. I made it to regionals by my senior year.
+
+- Age 15: I started on the cross country team in junior year. I got shin splints really bad all the time, but by the time I figured out how to run without shin splints I really enjoyed it.
+
+
 
 
 
