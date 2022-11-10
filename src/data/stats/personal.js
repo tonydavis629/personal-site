@@ -42,7 +42,7 @@ const data = [
   {
     key: 'CSGO',
     label: 'Counter Strike Global Offensive rank',
-    value: 'Legendary Eagle',
+    value: 'Distinguished Master Guardian',
   },
   {
     key: 'location',

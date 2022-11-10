@@ -10,35 +10,32 @@ I am working on a lot of different things (read: too many things) at the moment.
 # Some history
 
 - Age 3: I learned to swim, and I was on the swim team for like 10 years. 
-
 - Age 6: I learned to tie my shoes after years of wearing velcro straps.  
-
 - Age 12: I picked up the guitar and got really obsessed with it. I played a guitar solo at my middle school band recital. I still have a passion for music, but nowadays I play the [Gotar](https://www.starrlabs.com/product/gotar-2/).
-
 - Age 14: I started on the wrestling team in sophomore year of high school. I made it to regionals by my senior year.
-
 - Age 15: I started on the cross country team in junior year. I got shin splints really bad all the time, but by the time I figured out how to run without shin splints I really enjoyed it.
-
-
-
-
+- Age 15: I began my professional career as a Subway Sandwich Artist. 
+- Age 17: Planning for my career after high school, I walked into a Marine Corps recruiter's office. After looking at my grades, the recruiter recommends I go to college and join ROTC, so that's what I did. Thank you SSG Gonzalez! 
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I like
 
+- Scuba diving
 - Running
+- Jiu Jitsu
 - Skiing
-- Sailing and the sea
 - Space
-- Summer
+- Florida weather
 - [Books](https://www.goodreads.com/review/list/157985831-tony-davis?utf8=%E2%9C%93&shelf=read&title=tony-davis&per_page=100)
 - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
 - Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+
 
 # Travel / Geography
+
+- I grew up in Silver Spring, Maryland, just north of Washington DC.
+
 
 - I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 - I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
