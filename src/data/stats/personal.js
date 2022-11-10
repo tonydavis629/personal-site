@@ -43,6 +43,7 @@ const data = [
     key: 'CSGO',
     label: 'Counter Strike Global Offensive rank',
     value: 'Distinguished Master Guardian',
+    link: 'https://csgorankings.com/profile/76561198043553359',
   },
   {
     key: 'location',
