@@ -4,7 +4,7 @@ I am currently a graduate student at Florida Atlantic University, graduating Dec
 
 # Current research interests
 
-I am working on a lot of different things (read: too many things) at the moment. My main effort involves research at Dr. Bing Ouyang's lab at the Harbor Branch Oceanographic Institute, where we are developing the Hybrid Aerial Underwater Robotic System. The aim of this research is to reduce labor costs for aquaculture farms with intelligent networked robotics. We are also working on several underwater imaging and lidar projects. I also work for the Silicon Valley AI startup Deep Forest Sciences to implement bioinformatics tools in the open source machine learning library DeepChem. These tools are enabling biologists to use state of the art AI technology without needing to be AI experts. Besides all that, I continue to contribute to the Johns Hopkins University Applied Physics Lab building a realtime object tracking system for use on military vessels.
+I am working on a lot of different (read: too many) things at the moment. My main effort involves research at Dr. Bing Ouyang's lab at the Harbor Branch Oceanographic Institute, where we are developing the Hybrid Aerial Underwater Robotic System. The aim of this research is to reduce labor costs for aquaculture farms with intelligent networked robotics. We are also working on several underwater imaging and lidar projects. I also work for the Silicon Valley AI startup Deep Forest Sciences to implement bioinformatics tools in the open source machine learning library DeepChem. These tools are enabling biologists to use state of the art AI technology without needing to be AI experts. Besides all that, I continue to contribute to the Johns Hopkins University Applied Physics Lab building a realtime object tracking system for use on military vessels.
 
 # Some history
 
@@ -22,7 +22,7 @@ I am working on a lot of different things (read: too many things) at the moment.
 - Age 23: I moved to Germany where I was stationed
 - Age 25: I left the army, started at Motorola Solutions as a mechanical engineer, and bought a house 20 minutes from the beach in Fort Lauderdale, FL.
 - Age 26: Began my Master's in Artificial Intelligence 
-- Age 28: Graduated with my Master's, and began looking for PhDs <--- You are here
+- Age 28: Graduated with my Master's, and began looking for PhDs
 
 
 # When I'm not working I like
@@ -95,4 +95,4 @@ I am working on a lot of different things (read: too many things) at the moment.
 - Analog processors, neuromorphic processors, photonic processors, carbon nanotube processors etc. 
 - Biochemical computers to program cybernetic bacteria and store data in DNA
 - Robust mechanical pencils
-- Human prosthetic augmentation a la Deus Ex, Ghost in the Shell, Cyberpunk 2077
+- Badass human prosthetic augmentation a la Deus Ex, Ghost in the Shell, Cyberpunk 2077
