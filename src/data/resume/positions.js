@@ -6,6 +6,7 @@ const positions = [
     daterange: 'October 2022 - Present',
     points: [
       'Integrating Alphafold technology with DeepChem to enable protein based drug discovery',
+      'Development of ChemBERTa-3, a large scale self-supervised molecular property prediction model',
     ],
   },
   {
