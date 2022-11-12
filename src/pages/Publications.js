@@ -11,7 +11,7 @@ const markdown = raw('../data/publications/notes.md');
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
-const Resources = () => (
+const Publications = () => (
   <Main
     title="Publications"
     description="Published works"
