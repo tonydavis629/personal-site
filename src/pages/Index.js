@@ -25,7 +25,7 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> &quot;Some people can read War and Peace and come away thinking it's
+      <p> &quot;Some people can read War and Peace and come away thinking it&apos;s
         a simple adventure story. Others can read the ingredients on a
         chewing gum wrapper and unlock the secrets of the universe.&quot;
         -Lex Luthor
