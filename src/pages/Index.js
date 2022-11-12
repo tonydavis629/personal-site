@@ -23,11 +23,13 @@ const Index = () => (
         <Link to="/projects">projects</Link>, {' '}
         <a href="https://medium.com/@tdavis629">blog posts</a>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.</p>
+        or <Link to="/contact">contact</Link> me.
+      </p>
       <p> "Some people can read War and Peace and come away thinking it's 
         a simple adventure story. Others can read the ingredients on a 
         chewing gum wrapper and unlock the secrets of the universe."
-        -Lex Luthor </p>
+        -Lex Luthor 
+      </p>
       <p> Source available <a href="https://github.com/tonydavis629/personal-site">here</a>.</p>
     </article>
   </Main>
