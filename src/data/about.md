@@ -46,13 +46,13 @@ I am working on a lot of different (read: too many) things at the moment. My mai
 
 - I grew up in Silver Spring, Maryland, just north of Washington DC.
 - I've been to Russia like 4 or 5 times in my childhood. I haven't been back since I was 12 because they didn't let me leave last time.
-- I lived in Columbus, Ohio for 5 years during my undergrad
-- After college I moved to Columbus, Georgia for US Army training
+- I lived in Columbus, Ohio for 5 years during my undergrad.
+- After college I moved to Columbus, Georgia for US Army training.
 - After training I was stationed in Bavaria, Germany. I lived an hour from Munich in a town called Regensburg. No, I didn't learn German, most people knew English.
 - While in Europe I traveled to the majority of countries in Europe. My favorites were Spain and Switzerland.
 - I've been to Canada and Mexico plenty of times, which is always fun.
 - I did a cruise around the Caribbean, does that count? 
-- I've been to most big cities in the US, San Diego was my favorite
+- I've been to most big cities in the US, San Diego was my favorite.
 - I'm a fan of national parks. Top 3 are Death Valley, the Grand Canyon, and the Antelope Canyon.
 
 # Favorite Concerts (with links to the actual events)
