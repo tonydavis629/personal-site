@@ -28,7 +28,6 @@ const Index = () => (
       <p> &quot;Some people can read War and Peace and come away thinking it&apos;s
         a simple adventure story. Others can read the ingredients on a
         chewing gum wrapper and unlock the secrets of the universe.&quot;
-        -Lex Luthor
       </p>
       <p> Source available <a href="https://github.com/tonydavis629/personal-site">here</a>.</p>
     </article>
