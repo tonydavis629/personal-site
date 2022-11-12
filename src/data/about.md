@@ -20,8 +20,10 @@ I am working on a lot of different (read: too many) things at the moment. My mai
 - Age 21: I was elected the President of the OSU Scabbard and Blade chapter. We hosted talks and training by some really cool military specialists. 
 - Age 22: I graduated with my Bacherlor's in Mechanical Engineering (after 10 semesters) and began my career as an Army infantry officer
 - Age 23: I moved to Germany where I was stationed
+- Age 25: [My 400 year old apartment in Regensburg, Germany](https://www.mittelbayerische.de/region/regensburg-stadt-nachrichten/flexarbeiten-setzten-haus-in-brand-21179-art1809502.html) burned down after my landlord tried to take down vines growing on the building by burning them.
 - Age 25: I left the army, started at Motorola Solutions as a mechanical engineer, and bought a house 20 minutes from the beach in Fort Lauderdale, FL.
 - Age 26: Began my Master's in Artificial Intelligence 
+- Age 27: I got my scuba certification, [then the dive boat on my first dive sank](https://www.local10.com/news/local/2021/07/18/13-people-rescued-after-boat-begins-sinking-off-pompano-beach/). I was rescued by the boat behind the news anchor in that video. The propeller did not wrap up the anchor line. There were were high waves, it was a small boat and the captain tied to the shipwreck in the stern, so water started taking on.
 - Age 28: Graduated with my Master's, and began looking for PhDs
 
 
