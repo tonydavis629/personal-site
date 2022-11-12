@@ -37,7 +37,7 @@ I am working on a lot of different (read: too many) things at the moment. My mai
 - My hammock
 - Books, [these are my favorites](https://www.goodreads.com/review/list/157985831-tony-davis?utf8=%E2%9C%93&shelf=read&title=tony-davis&per_page=100) 
 - [Music](https://open.spotify.com/user/1217882921?si=0d478a355cf147b3)
-- Podcasts like [Freakonomics](https://freakonomics.com/), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) and cybersecurity show [Risky Business](https://risky.biz/)
+- Podcasts like [Freakonomics](https://freakonomics.com/), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) and info security show [Risky Business](https://risky.biz/)
 - Cerebral sci-fi movies like Vanilla Sky, Inception, Interstellar, 2001: A Space Odyssey, The Prestige, Donnie Darko, and Mr. Nobody
 - Video games with good environment and narrative like Fallout New Vegas, Abe's Oddysee, Dark Souls, Half Life (especially in VR)
 - Team based shooters like Counter Strike and Halo
