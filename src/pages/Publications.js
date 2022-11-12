@@ -33,4 +33,4 @@ const Resources = () => (
   </Main>
 );
 
-export default Resources;
+export default Publications;
