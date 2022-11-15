@@ -29,7 +29,7 @@ const Index = () => (
         a simple adventure story. Others can read the ingredients on a
         chewing gum wrapper and unlock the secrets of the universe.&quot;
       </p>
-      <p> Source available <a href="https://github.com/tonydavis629/personal-site">here</a>.</p>
+      <p> Site source available <a href="https://github.com/tonydavis629/personal-site">here</a>.</p>
     </article>
   </Main>
 );
