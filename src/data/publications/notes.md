@@ -4,5 +4,4 @@ A. Davis, S. Mukherjee, P. Wills, B. Ouyang, [Path Planning Algorithms for Robot
 
 ## Pre-Print Publications
 
-A. Davis, W. Mendoza, D. Leach, O. Marques, [Predicting Alzheimer’s Disease with Multi-Omic
-Data: A Systematic Review](AD.pdf), Submitted to IEEE Journal of Biomedical and Health Informatics, 2022
+A. Davis, W. Mendoza, D. Leach, O. Marques, [Predicting Alzheimer’s Disease with Multi-Omic Data: A Systematic Review](AD.pdf), Submitted to IEEE Journal of Biomedical and Health Informatics, 2022
