@@ -78,7 +78,7 @@ I am working on a lot of different (read: too many) things at the moment. My mai
 - Universal healthcare, because much of the costs are caused by our complex and bureaucratic system and exploitation by corporate interests
 - Open source robotics preventing the monopolization of labor
 - Artifical general intelligence to be our personal oracles 
-- Personal submarines 
+- Personal submarines
 - ['I know kung fu'](https://www.youtube.com/watch?v=OrzgxUhnYjY&ab_channel=LegendaryMovieScenes) level brain interfaces
 - Affordable organically grown food so we can stop the [growth](https://jamanetwork.com/journals/jamaneurology/fullarticle/2772579) of neurological diseases like [Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355712/) and [autism](https://www.bmj.com/content/364/bmj.l962) [caused](https://www.sciencedirect.com/science/article/pii/S0013935122012609?casa_token=R2HltGuUxxgAAAAA:RQMA2QjW5-xAQcwPX9A8uiWb1nTxZ-C0z5bSbWszB-Z3GlLhSqoUJyNtzFCecdZ80ax2lMLB8g) by [herbicides and pesticides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6170243/)
 - My own personal automated [aquaponics](https://www.youtube.com/watch?v=HHDgsK09-1k&ab_channel=LANDiO) system
