@@ -12,6 +12,7 @@ const data = [
   {
     title: 'WinRo',
     subtitle: 'The creatively named Window Cleaning Robot',
+    link: 'https://github.com/tonydavis629/WinRo',
     image: '/images/projects/winro_cad.jpg',
     date: '2016-12-01',
     desc:
