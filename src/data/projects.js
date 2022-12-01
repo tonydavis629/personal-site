@@ -20,6 +20,14 @@ const data = [
       + 'It didn\'t work great, but it was a fun project.',
   },
   {
+    title: 'Quantum UAV',
+    subtitle: 'Nation\'s First Quantum Drone Provides Unrivaled Security',
+    link: 'https://www.fau.edu/newsdesk/articles/quantum-drone-security',
+    image: '/images/projects/quantum_uav.jpg',
+    date: '2022-05-24',
+    desc: 'Send quantum encrypted messages to a drone for secure wireless communication. I worked on some of the control software for the sensor.',
+  },
+  {
     title: 'Gravitational Wave Detector',
     subtitle: 'A Kaggle Competition Entry',
     link: 'https://github.com/tonydavis629/G2Net',
