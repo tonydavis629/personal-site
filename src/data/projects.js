@@ -25,7 +25,7 @@ const data = [
     link: 'https://www.fau.edu/newsdesk/articles/quantum-drone-security',
     image: '/images/projects/quantum_uav.jpg',
     date: '2022-05-24',
-    desc: 
+    desc:
       'Send quantum encrypted messages to a drone for secure wireless communication. I worked on some of the control software for the sensor.',
   },
   {
