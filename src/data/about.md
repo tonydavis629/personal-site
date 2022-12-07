@@ -40,7 +40,7 @@ I am working on a lot of different (read: too many) things at the moment. My mai
 - Podcasts like [Freakonomics](https://freakonomics.com/), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) and info security show [Risky Business](https://risky.biz/)
 - Cerebral sci-fi movies like Vanilla Sky, Inception, Interstellar, 2001: A Space Odyssey, The Prestige, Donnie Darko, and Mr. Nobody
 - Video games with good environment and narrative like Fallout New Vegas, Abe's Oddysee, Dark Souls, Half Life (especially in VR)
-- Team based shooters like Counter Strike and Halo
+- Team based shooters like Counter Strike and Halo. Join my CSGO Retake practice server! peanut.fragify.net:30525
 
 # Travel / Geography
 
