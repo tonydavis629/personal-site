@@ -32,6 +32,7 @@
 #           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/tonydavis629/personal-site.git
 #           npm run deploy --verbose
 
+# attempting to use github pages because npm run deploy isn't working
 name: GitHub Pages
 
 on:
@@ -59,7 +60,10 @@ jobs:
         # Remove this line if you would like to skip using google analytics
         REACT_APP_GA_TRACKING_ID: UA-68649021-1
         # This is set automatically by github
+        ACTIONS_ID_TOKEN_REQUEST_URL: https://api.github.com/installations/:installation_id/actions/dispatch
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       uses: actions/deploy-pages@v1
       with:
         publish_dir: './build'
+          branch: main
+          directory: /
