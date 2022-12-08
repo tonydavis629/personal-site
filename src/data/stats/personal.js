@@ -37,7 +37,7 @@ const data = [
   {
     key: 'belt',
     label: 'Jiu Jitsu belt progress',
-    value: '4 stripes white belt',
+    value: 'Blue Belt, 0 stripes',
   },
   {
     key: 'CSGO',
