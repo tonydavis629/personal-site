@@ -53,8 +53,10 @@ jobs:
       with:
         node-version-file: '.nvmrc'
     - name: Install
+      run: npm ci
+    - name: Build
       run: npm run build
-    - name: Build and Deploy
+    - name: Deploy
       env:
         NODE_ENV: production
         # Remove this line if you would like to skip using google analytics
