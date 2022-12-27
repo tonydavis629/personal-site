@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 jobs:
   deployment:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     timeout-minutes: 16
     environment: production
     steps:
@@ -23,7 +23,7 @@ jobs:
       env:
         NODE_ENV: production
         # Remove this line if you would like to skip using google analytics
-        # REACT_APP_GA_TRACKING_ID: UA-68649021-1
+        REACT_APP_GA_TRACKING_ID: UA-68649021-1
         # This is set automatically by github
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
@@ -31,39 +31,3 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/tonydavis629/personal-site.git
           npm run deploy --verbose
-
-# attempting to use github pages because npm run deploy isn't working
-# name: GitHub Pages
-# on:
-#   push:
-#     branches: [ main ]
-# jobs:
-#   deployment:
-#     runs-on: ubuntu-latest
-#     timeout-minutes: 15
-#     environment:
-#       ACTIONS_ID_TOKEN_REQUEST_URL: https://api.github.com/installations/:installation_id/actions/dispatch
-#     steps:
-#     - name: Checkout
-#       uses: actions/checkout@v3
-#       with:
-#         persist-credentials: false
-#     - name: Setup Node
-#       uses: actions/setup-node@v3
-#       with:
-#         node-version-file: '.nvmrc'
-#     - name: Install
-#       run: npm ci
-#     - name: Build
-#       run: npm run build
-#     - name: Deploy
-#       env:
-#         NODE_ENV: production
-#         # Remove this line if you would like to skip using google analytics
-#         REACT_APP_GA_TRACKING_ID: UA-68649021-1
-#         # This is set automatically by github
-#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#       uses: actions/deploy-pages@v1
-#       with:
-#         publish_dir: './build'
-
