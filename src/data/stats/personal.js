@@ -32,7 +32,7 @@ const data = [
   {
     key: 'dives',
     label: 'Dives logged',
-    value: 49,
+    value: 51,
   },
   {
     key: 'belt',
@@ -42,7 +42,7 @@ const data = [
   {
     key: 'CSGO',
     label: 'Counter Strike Global Offensive rank',
-    value: 'Distinguished Master Guardian',
+    value: 'Legendary Eagle',
     link: 'https://csgorankings.com/profile/76561198043553359',
   },
   {

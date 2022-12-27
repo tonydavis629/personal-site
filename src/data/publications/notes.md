@@ -1,6 +1,6 @@
 ## Master's Thesis
 
-A. Davis, [Path Planning for Hybrid Aerial Underwater Robotic System](https://raw.githubusercontent.com/tonydavis629/personal-site/main/src/data/publications/thesis.pdf), Master’s Thesis, Florida Atlantic University, 2022.
+A. Davis, [Path Planning for the Hybrid Aerial Underwater Robotic System](https://raw.githubusercontent.com/tonydavis629/personal-site/main/src/data/publications/thesis.pdf), Master’s Thesis, Florida Atlantic University, 2022.
 <br/><br/>
 
 ## Conference Publications
