@@ -12,4 +12,4 @@ A. Davis, S. Mukherjee, P. Wills, B. Ouyang, [Path Planning Algorithms for Robot
 
 A. Davis, W. Mendoza, D. Leach, O. Marques, [Predicting Alzheimer’s Disease with Multi-Omic Data: A Systematic Review](https://www.medrxiv.org/content/10.1101/2022.11.25.22282770v1), Submitted to IEEE Journal of Biomedical and Health Informatics, 2022
 <br/><br/>
-A. Davis, P. S. Wills, J. E. Garvey, W. Fairman, Md A. Karim, and B. Ouyang, [Implementation of Path Planning for Robotic Aquaculture Monitoring](https://raw.githubusercontent.com/tonydavis629/personal-site/main/src/data/publications/implementation.pdf), Submitted to MDPI Applied Sciences 2022.
+A. Davis, P. S. Wills, J. E. Garvey, W. Fairman, Md A. Karim, and B. Ouyang, [Implementation of Path Planning for Robotic Aquaculture Monitoring](https://raw.githubusercontent.com/tonydavis629/personal-site/main/src/data/publications/implementation.pdf), Accepted to MDPI Applied Sciences 2022.
