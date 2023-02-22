@@ -1,11 +1,11 @@
 ## Journal Publications
 
-A. Davis, P. S. Wills, J. E. Garvey, W. Fairman, M. A. Karim, and B. Ouyang, [Developing and Field Testing Path Planning for Robotic Aquaculture Water Quality Monitoring](https://www.mdpi.com/2076-3417/13/5/2805), Applied Sciences, vol. 13, no. 5, Art. no. 5, Jan. 2023, doi: 10.3390/app13052805.
+A. Davis, P. S. Wills, J. E. Garvey, W. Fairman, M. A. Karim, and B. Ouyang, [Developing and Field Testing Path Planning for Robotic Aquaculture Water Quality Monitoring](https://www.mdpi.com/2076-3417/13/5/2805), MDPI Applied Sciences, vol. 13, no. 5, Art. no. 5, Jan. 2023, doi: 10.3390/app13052805.
 <br/><br/>
 
 ## Master's Thesis
 
-A. Davis, [Path Planning for the Hybrid Aerial Underwater Robotic System](https://raw.githubusercontent.com/tonydavis629/personal-site/main/src/data/publications/thesis.pdf), Master’s Thesis, Florida Atlantic University, 2022.
+A. Davis, [Path Planning for the Hybrid Aerial Underwater Robotic System](https://www.proquest.com/docview/2762728774/E24E90FBB1C24186PQ/1), Master’s Thesis, Florida Atlantic University, 2022.
 <br/><br/>
 
 ## Conference Publications
