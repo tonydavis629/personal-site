@@ -5,7 +5,7 @@ A. Davis, P. S. Wills, J. E. Garvey, W. Fairman, M. A. Karim, and B. Ouyang, [De
 
 ## Master's Thesis
 
-A. Davis, [Path Planning for the Hybrid Aerial Underwater Robotic System](https://www.proquest.com/docview/2762728774/E24E90FBB1C24186PQ/1), Master’s Thesis, Florida Atlantic University, 2022.
+A. Davis, [Path Planning for the Hybrid Aerial Underwater Robotic System](https://www.proquest.com/dissertations-theses/path-planning-hybrid-aerial-underwater-robotic/docview/2762728774/se-2), Master’s Thesis, Florida Atlantic University, 2022.
 <br/><br/>
 
 ## Conference Publications
