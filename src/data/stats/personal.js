@@ -27,22 +27,22 @@ const data = [
   {
     key: 'countries',
     label: 'Shotglasses collected from travels',
-    value: 110,
+    value: 112,
   },
   {
     key: 'dives',
     label: 'Dives logged',
-    value: 51,
+    value: 58,
   },
   {
     key: 'belt',
     label: 'Jiu Jitsu belt progress',
-    value: 'Blue Belt, 0 stripes',
+    value: 'Blue Belt, 1 stripes',
   },
   {
     key: 'CSGO',
-    label: 'Counter Strike Global Offensive rank',
-    value: 'Legendary Eagle',
+    label: 'Counter Strike 2 Premier Rank',
+    value: '~18000',
     link: 'https://csgorankings.com/profile/76561198043553359',
   },
   {
