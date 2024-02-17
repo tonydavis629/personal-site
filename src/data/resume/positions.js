@@ -1,9 +1,20 @@
 const positions = [
   {
+    company: 'Johns Hopkins University Applied Physics Laboratory',
+    position: 'Professional Staff',
+    link: 'https://www.jhuapl.edu/',
+    daterange: 'August 2023 - Present',
+    points: [
+      'Realtime object detection and tracking for electro-optical and infrared sensors',
+      'Geospatial foundation models',
+      'Multimodal models for multispectral video, audio, and text',
+    ],
+  },
+  {
     company: 'Deep Forest Sciences',
     position: 'Research Scientist',
     link: 'https://deepforestsci.com/',
-    daterange: 'October 2022 - Present',
+    daterange: 'October 2022 - May 2023',
     points: [
       'Integrating Alphafold technology with DeepChem to enable protein based drug discovery',
       'Development of ChemBERTa-3, a large scale self-supervised molecular property prediction model',
@@ -29,7 +40,6 @@ const positions = [
     points: [
       'Implemented object detection and tracking algorithms for shipboard electro-optical and infrared sensors',
       'Development of semi-supervised learning algorithms for identifying 56 classes of ship with weakly labeled data',
-      'Coordinated cross department GPU resources to enable real-time computer vision algorithms',
     ],
   },
   {
