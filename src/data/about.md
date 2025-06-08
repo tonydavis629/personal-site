@@ -1,10 +1,10 @@
 # Intro
+I am currently working at the Johns Hopkins University Applied Physics Lab, and I'm a Doctor of Engineering student at JHU under Dr. Chien-Ming Huang and Dr. Tianmin Shu. I am studying the use of Vision Language Models in larger software systems. In other words, how to properly train VLMs to use tools and interact with computers. This is important because much of the advancement in AI has been made in language models, but is missing the connection to the visual world. At the same time I'm applying real time object detection and tracking to algorithms to navy camera data.
 
-I am currently a graduate student at Florida Atlantic University, graduating December 2022 with a Master's in Artificial Intelligence. Isn't that cool that AI is now a degree program? I'm really fascinated in the how the nature of knowledge is being probed by developing intelligent automated systems. My research involves investigating how AI can be used to enable automated aquaculture management systems. I hope my work can lead to technology that supports more harmonious relationships between man, technology and nature. 
+## Previous Research
 
-# Current research interests
+In my master's at Florida Atlantic University, I worked on automating aquaculture management systems, in pursuit of making aquaculture less laborious. I also did some work at Deep Forest Sciences to implement bioinformatics tools in the open source machine learning library DeepChem. These tools are enabling biologists to use state of the art AI technology without needing to be AI experts.
 
-I am working on a lot of different (read: too many) things at the moment. My main effort involves research at Dr. Bing Ouyang's lab at the Harbor Branch Oceanographic Institute, where we are developing the Hybrid Aerial Underwater Robotic System. The aim of this research is to reduce labor costs for aquaculture farms with intelligent networked robotics. We are also working on several underwater imaging and lidar projects. I also work for the Silicon Valley AI startup Deep Forest Sciences to implement bioinformatics tools in the open source machine learning library DeepChem. These tools are enabling biologists to use state of the art AI technology without needing to be AI experts. Besides all that, I continue to contribute to the Johns Hopkins University Applied Physics Lab building a realtime object tracking system for use on military vessels.
 
 # Some history
 
@@ -22,9 +22,12 @@ I am working on a lot of different (read: too many) things at the moment. My mai
 - Age 23: I moved to Germany where I was stationed
 - Age 25: [My 400 year old apartment in Regensburg, Germany](https://www.mittelbayerische.de/region/regensburg-stadt-nachrichten/flexarbeiten-setzten-haus-in-brand-21179-art1809502.html) burned down after my landlord tried to take down vines growing on the building by burning them.
 - Age 25: I left the army, started at Motorola Solutions as a mechanical engineer, and bought a house 20 minutes from the beach in Fort Lauderdale, FL.
-- Age 26: Began my Master's in Artificial Intelligence 
+- Age 26: Began my Master's in Artificial Intelligence
+- Age 27: Began training Jiu Jitsu under Bruce Belfield at the Fort Lauderdale Jiu Jitsu.
 - Age 27: I got my scuba certification, [then the dive boat on my first dive sank](https://www.local10.com/news/local/2021/07/18/13-people-rescued-after-boat-begins-sinking-off-pompano-beach/). I was rescued by the boat behind the news anchor in that video. The propeller did not wrap up the anchor line. There were were high waves, it was a small boat and the captain tied to the shipwreck in the stern, so water started taking on.
 - Age 28: Graduated with my Master's, and began looking for PhDs
+- Age 28: Got married to my wife Maryam! 
+- Age 29: Decided not to do a PhD, and move to Maryland to working at the Johns Hopkins University Applied Physics Lab and do a Doctor of Engineering at JHU. A Doctor of Engineering is a professional doctoral program that is similar to a PhD, but is more focused on applied research instead of publications.
 
 
 # When I'm not working I like
@@ -35,7 +38,7 @@ I am working on a lot of different (read: too many) things at the moment. My mai
 - Skiing
 - Florida weather
 - My hammock
-- Books, [these are my favorites](https://www.goodreads.com/review/list/157985831-tony-davis?utf8=%E2%9C%93&shelf=read&title=tony-davis&per_page=100) 
+- Books, [these are my reviews](https://www.goodreads.com/review/list/157985831-tony-davis?utf8=%E2%9C%93&shelf=read&title=tony-davis&per_page=100) 
 - [Music](https://open.spotify.com/user/1217882921?si=0d478a355cf147b3)
 - Podcasts like [Freakonomics](https://freakonomics.com/), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) and info security show [Risky Business](https://risky.biz/)
 - Cerebral sci-fi movies like Vanilla Sky, Inception, Interstellar, 2001: A Space Odyssey, The Prestige, Donnie Darko, and Mr. Nobody
@@ -54,6 +57,7 @@ I am working on a lot of different (read: too many) things at the moment. My mai
 - I did a cruise around the Caribbean, does that count? 
 - I've been to most big cities in the US, San Diego was my favorite.
 - I'm a fan of national parks. Top 3 are Death Valley, the Grand Canyon, and the Antelope Canyon.
+- I've been diving in Indoneisa, which was probably the closest thing I've had to a religious experience.
 
 # Favorite Concerts (with links to the actual events)
 
@@ -82,15 +86,17 @@ I am working on a lot of different (read: too many) things at the moment. My mai
 - ['I know kung fu'](https://www.youtube.com/watch?v=OrzgxUhnYjY&ab_channel=LegendaryMovieScenes) level brain interfaces
 - Affordable organically grown food so we can stop the [growth](https://jamanetwork.com/journals/jamaneurology/fullarticle/2772579) of neurological diseases like [Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355712/) and [autism](https://www.bmj.com/content/364/bmj.l962) [caused](https://www.sciencedirect.com/science/article/pii/S0013935122012609?casa_token=R2HltGuUxxgAAAAA:RQMA2QjW5-xAQcwPX9A8uiWb1nTxZ-C0z5bSbWszB-Z3GlLhSqoUJyNtzFCecdZ80ax2lMLB8g) by [herbicides and pesticides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6170243/)
 - My own personal automated [aquaponics](https://www.youtube.com/watch?v=HHDgsK09-1k&ab_channel=LANDiO) system
-- Useful natural language computer interfaces like [William in Another Life](https://www.youtube.com/watch?v=G5DpeENhY7o&ab_channel=Netflix), not like [Hal 9000](https://www.youtube.com/watch?v=ARJ8cAGm6JE&ab_channel=KlingonSpider)
+- AI powered chemical synthesis robots to automate chemistry research
+- Useful natural computer interfaces like [William in Another Life](https://www.youtube.com/watch?v=G5DpeENhY7o&ab_channel=Netflix), not like [Hal 9000](https://www.youtube.com/watch?v=ARJ8cAGm6JE&ab_channel=KlingonSpider)
 - Micro robot swarms that cut my grass, weed my garden and fertilize my flowers
 - Legal GMO livestock so we don't need use [50% of the world's habitable land](https://ourworldindata.org/global-land-for-agriculture) to grow animal feed
 - Affordable cellular agriculture so we don't need to raise animals just for their meat 
-- Python without the GIL 
+- Python without the GIL [accomplished!](https://github.com/python/cpython/issues/108219)
 - Nitrogen fixing microbes in commercial agriculture
 - Photo realistic text to video generators so anyone can be a movie director
 - Affordable graphene to build a space elevator
 - Robotaxis with large capacities that run on regular schedules to busy areas, aka buses
+- Open source genomes for genetically modified microbes that are designed to grow biofuels, drugs, and other chemicals, and open source bioreactors to grow them.
 - AI generated nonlinear narratives and environments for entertainment 
 - Quantum computers to model chemical simulations to make some of the items of this list possible
 - Room temperature super conductors for actual floating hoverboards, and fusion power I guess
