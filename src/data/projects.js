@@ -1,5 +1,23 @@
 const data = [
   {
+    title: 'CryptoTalks.ai',
+    subtitle: 'A privacy focused AI aggregator service',
+    link: 'https://cryptotalks.ai',
+    image: '/images/projects/cryptotalks.png',
+    date: '2025-06-08',
+    desc:
+      'A privacy focused AI aggregator service that I built.',
+  },
+  {
+    title: 'DeepChem',
+    subtitle: 'An open-source machine learning library for drug discovery',
+    link: 'https://github.com/deepchem/deepchem',
+    image: '/images/projects/deepchem.png',
+    date: '2023-05-01',
+    desc:
+      'I was a contributor to DeepChem, an open-source machine learning library for drug discovery.',
+  },
+  {
     title: 'The Hybrid Aerial Underwater Robotic System',
     subtitle: 'Master\'s Thesis',
     link: 'https://github.com/tonydavis629/HAUCS',
@@ -8,16 +26,6 @@ const data = [
     desc:
       'My Master\'s thesis to develop and implement path planning algorithms for a robotic water quality monitoring system. '
       + 'It is intended to help aquaculture farmers easily maintain appropriate water quality for their fish.',
-  },
-  {
-    title: 'WinRo',
-    subtitle: 'The creatively named Window Cleaning Robot',
-    link: 'https://github.com/tonydavis629/WinRo',
-    image: '/images/projects/winro_cad.jpg',
-    date: '2016-12-01',
-    desc:
-      'OSU Mechanical Engineering capstone project to design and build a window sill cleaning robot. '
-      + 'It didn\'t work great, but it was a fun project.',
   },
   {
     title: 'Quantum UAV',
@@ -36,6 +44,16 @@ const data = [
     date: '2021-08-21',
     desc:
       'Detect gravitational waves from space using a convolutional neural network. It was a Kaggle competition entry with an .80 AUC score. We didn\'t win.',
+  },
+  {
+    title: 'WinRo',
+    subtitle: 'The creatively named Window Cleaning Robot',
+    link: 'https://github.com/tonydavis629/WinRo',
+    image: '/images/projects/winro_cad.jpg',
+    date: '2016-12-01',
+    desc:
+      'OSU Mechanical Engineering capstone project to design and build a window sill cleaning robot. '
+      + 'It didn\'t work great, but it was a fun project.',
   },
   {
     title: 'Tumor Cell Extravasation Simulation',

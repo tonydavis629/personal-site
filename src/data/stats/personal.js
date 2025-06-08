@@ -27,17 +27,17 @@ const data = [
   {
     key: 'countries',
     label: 'Shotglasses collected from travels',
-    value: 112,
+    value: 116,
   },
   {
     key: 'dives',
     label: 'Dives logged',
-    value: 58,
+    value: 104,
   },
   {
     key: 'belt',
     label: 'Jiu Jitsu belt progress',
-    value: 'Blue Belt, 1 stripes',
+    value: 'Purple Belt, 0 stripes',
   },
   {
     key: 'CSGO',
@@ -48,7 +48,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Fort Lauderdale, FL',
+    value: 'Silver Spring, MD',
   },
 ];
 

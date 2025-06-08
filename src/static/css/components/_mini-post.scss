@@ -49,7 +49,10 @@
 
   .image {
     overflow: hidden;
-    width: 100%;
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
 
     img {
       @include vendor( 'transition', 'transform #{_duration(transition)} ease-out');
