@@ -1,16 +1,39 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import ReactMarkdown from 'react-markdown';
-import rehypeRaw from 'rehype-raw';
-import raw from 'raw.macro';
-
+import PropTypes from 'prop-types';
 import Main from '../layouts/Main';
+import publicationsData from '../data/publications/publications';
 
-// uses babel to load contents of file
-const markdown = raw('../data/publications/notes.md');
+const PublicationItem = ({ pub }) => (
+  <p>
+    {pub.authors}, {' '}
+    <a href={pub.url} target="_blank" rel="noopener noreferrer">
+      {pub.title}
+    </a>
+    , {pub.venue}
+    {pub.doi && `, doi: ${pub.doi}`}
+    {pub.doiUrl && (
+      <>
+        {' '}
+        <a href={pub.doiUrl} target="_blank" rel="noopener noreferrer">
+          [doi:{pub.doi}]
+        </a>
+      </>
+    )}
+    {pub.year && `, ${pub.year}`}.
+  </p>
+);
 
-// Make all hrefs react router links
-const LinkRenderer = ({ ...children }) => <Link {...children} />;
+PublicationItem.propTypes = {
+  pub: PropTypes.shape({
+    authors: PropTypes.string.isRequired,
+    title: PropTypes.string.isRequired,
+    venue: PropTypes.string.isRequired,
+    url: PropTypes.string.isRequired,
+    doi: PropTypes.string,
+    doiUrl: PropTypes.string,
+    year: PropTypes.string,
+  }).isRequired,
+};
 
 const Publications = () => (
   <Main
@@ -32,17 +55,29 @@ const Publications = () => (
           .post.markdown p {
             margin-bottom: 1.5rem;
             line-height: 1.6;
-          }
+                    }
         `}
       </style>
-      <ReactMarkdown
-        components={{
-          a: LinkRenderer,
-        }}
-        rehypePlugins={[rehypeRaw]}
-      >
-        {markdown}
-      </ReactMarkdown>
+
+      <h2>Journal Publications</h2>
+      {publicationsData.journalPublications.map((pub) => (
+        <PublicationItem key={pub.title} pub={pub} />
+      ))}
+
+      <h2>Master&apos;s Thesis</h2>
+      {publicationsData.masterThesis.map((pub) => (
+        <PublicationItem key={pub.title} pub={pub} />
+      ))}
+
+      <h2>Conference Publications</h2>
+      {publicationsData.conferencePublications.map((pub) => (
+        <PublicationItem key={pub.title} pub={pub} />
+      ))}
+
+      <h2>Pre-Print Publications</h2>
+      {publicationsData.prePrintPublications.map((pub) => (
+        <PublicationItem key={pub.title} pub={pub} />
+      ))}
     </article>
   </Main>
 );
