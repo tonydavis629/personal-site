@@ -92,7 +92,7 @@ In my master's at Florida Atlantic University, I worked on automating aquacultur
 - Micro robot swarms that cut my grass, weed my garden and fertilize my flowers
 - Legal GMO livestock so we don't need use [50% of the world's habitable land](https://ourworldindata.org/global-land-for-agriculture) to grow animal feed
 - Affordable cellular agriculture so we don't need to raise animals just for their meat 
-- Python without the GIL [[accomplished!]](https://github.com/python/cpython/issues/108219)
+- Python without the GIL ([accomplished!])(https://github.com/python/cpython/issues/108219)
 - Nitrogen fixing microbes in commercial agriculture
 - Photo realistic text to video generators so anyone can be a movie director
 - Affordable graphene to build a space elevator
