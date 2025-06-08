@@ -38,7 +38,7 @@ In my master's at Florida Atlantic University, I worked on automating aquacultur
 - Skiing
 - Florida weather
 - My hammock
-- Books, [these are my reviews](https://www.goodreads.com/review/list/157985831-tony-davis?utf8=%E2%9C%93&shelf=read&title=tony-davis&per_page=100) 
+- Books, [these are my reviews for almost every book I've read](https://www.goodreads.com/review/list/157985831-tony-davis?utf8=%E2%9C%93&shelf=read&title=tony-davis&per_page=100) 
 - [Music](https://open.spotify.com/user/1217882921?si=0d478a355cf147b3)
 - Podcasts like [Freakonomics](https://freakonomics.com/), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) and info security show [Risky Business](https://risky.biz/)
 - Cerebral sci-fi movies like Vanilla Sky, Inception, Interstellar, 2001: A Space Odyssey, The Prestige, Donnie Darko, and Mr. Nobody
