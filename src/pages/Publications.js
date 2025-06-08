@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
 import raw from 'raw.macro';
 
 import Main from '../layouts/Main';
@@ -22,13 +23,26 @@ const Publications = () => (
           <h2 data-testid="heading">Publications</h2>
         </div>
       </header>
+      <style>
+        {`
+          .post.markdown h2 {
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+          }
+          .post.markdown p {
+            margin-bottom: 1.5rem;
+            line-height: 1.6;
+          }
+        `}
+      </style>
       <ReactMarkdown
-        source={markdown}
-        renderers={{
-          Link: LinkRenderer,
+        components={{
+          a: LinkRenderer,
         }}
-        escapeHtml={false}
-      />
+        rehypePlugins={[rehypeRaw]}
+      >
+        {markdown}
+      </ReactMarkdown>
     </article>
   </Main>
 );
