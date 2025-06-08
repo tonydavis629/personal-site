@@ -1,7 +1,8 @@
 # Intro
 I am currently working at the Johns Hopkins University Applied Physics Lab, and I'm a Doctor of Engineering student at JHU under Dr. Chien-Ming Huang and Dr. Tianmin Shu. I am studying the use of Vision Language Models in larger software systems. In other words, how to properly train VLMs to use tools and interact with computers. This is important because much of the advancement in AI has been made in language models, but is missing the connection to the visual world. At the same time I'm applying real time object detection and tracking to algorithms to navy camera data.
 
-## Previous Research
+
+# Previous Research
 
 In my master's at Florida Atlantic University, I worked on automating aquaculture management systems, in pursuit of making aquaculture less laborious. I also did some work at Deep Forest Sciences to implement bioinformatics tools in the open source machine learning library DeepChem. These tools are for biologists to use state of the art AI technology without needing to be AI experts.
 
@@ -91,7 +92,7 @@ In my master's at Florida Atlantic University, I worked on automating aquacultur
 - Micro robot swarms that cut my grass, weed my garden and fertilize my flowers
 - Legal GMO livestock so we don't need use [50% of the world's habitable land](https://ourworldindata.org/global-land-for-agriculture) to grow animal feed
 - Affordable cellular agriculture so we don't need to raise animals just for their meat 
-- Python without the GIL [accomplished!](https://github.com/python/cpython/issues/108219)
+- Python without the GIL [[accomplished!]](https://github.com/python/cpython/issues/108219)
 - Nitrogen fixing microbes in commercial agriculture
 - Photo realistic text to video generators so anyone can be a movie director
 - Affordable graphene to build a space elevator
