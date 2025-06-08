@@ -3,7 +3,7 @@ I am currently working at the Johns Hopkins University Applied Physics Lab, and 
 
 ## Previous Research
 
-In my master's at Florida Atlantic University, I worked on automating aquaculture management systems, in pursuit of making aquaculture less laborious. I also did some work at Deep Forest Sciences to implement bioinformatics tools in the open source machine learning library DeepChem. These tools are enabling biologists to use state of the art AI technology without needing to be AI experts.
+In my master's at Florida Atlantic University, I worked on automating aquaculture management systems, in pursuit of making aquaculture less laborious. I also did some work at Deep Forest Sciences to implement bioinformatics tools in the open source machine learning library DeepChem. These tools are for biologists to use state of the art AI technology without needing to be AI experts.
 
 
 # Some history
