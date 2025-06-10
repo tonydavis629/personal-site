@@ -41,7 +41,7 @@ In my master's at Florida Atlantic University, I worked on automating aquacultur
 - My hammock
 - Books, [these are my reviews for almost every book I've read](https://www.goodreads.com/review/list/157985831-tony-davis?utf8=%E2%9C%93&shelf=read&title=tony-davis&per_page=100) 
 - [Music](https://open.spotify.com/user/1217882921?si=0d478a355cf147b3)
-- Podcasts like [Freakonomics](https://freakonomics.com/), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) and info security show [Risky Business](https://risky.biz/)
+- Podcasts like [Freakonomics](https://freakonomics.com/), [Latent Space: The AI Engineer Podcast](https://open.spotify.com/show/2p7zZVwVF6Yk0Zsb4QmT7t) and info security show [Risky Business](https://risky.biz/)
 - Cerebral sci-fi movies like Vanilla Sky, Inception, Interstellar, 2001: A Space Odyssey, The Prestige, Donnie Darko, and Mr. Nobody
 - Video games with good environment and narrative like Fallout New Vegas, Abe's Oddysee, Dark Souls, Half Life (especially in VR)
 - Team based shooters like Counter Strike and Halo
@@ -84,7 +84,7 @@ In my master's at Florida Atlantic University, I worked on automating aquacultur
 - Open source robotics preventing the monopolization of labor
 - Artifical general intelligence to be our personal oracles 
 - Personal submarines
-- ['I know kung fu'](https://www.youtube.com/watch?v=OrzgxUhnYjY&ab_channel=LegendaryMovieScenes) level brain interfaces
+- ['I know kung fu'](https://www.youtube.com/watch?v=OrzgxUhnYjY&ab_channel=LegendaryMovieScenes) level brain computer interfaces
 - Affordable organically grown food so we can stop the [growth](https://jamanetwork.com/journals/jamaneurology/fullarticle/2772579) of neurological diseases like [Alzheimer's](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355712/) and [autism](https://www.bmj.com/content/364/bmj.l962) [caused](https://www.sciencedirect.com/science/article/pii/S0013935122012609?casa_token=R2HltGuUxxgAAAAA:RQMA2QjW5-xAQcwPX9A8uiWb1nTxZ-C0z5bSbWszB-Z3GlLhSqoUJyNtzFCecdZ80ax2lMLB8g) by [herbicides and pesticides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6170243/)
 - My own personal automated [aquaponics](https://www.youtube.com/watch?v=HHDgsK09-1k&ab_channel=LANDiO) system
 - AI powered chemical synthesis robots to automate chemistry research
