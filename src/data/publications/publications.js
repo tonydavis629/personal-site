@@ -38,6 +38,12 @@ const publicationsData = {
 
   prePrintPublications: [
     {
+      authors: 'Anthony C Davis, Burhan Sadiq, Tianmin Shu, Chien-Ming Huang',
+      title: 'Augmented Vision-Language Models: A Systematic Review',
+      venue: 'arXiv preprint arXiv:2507.22933, 2025',
+      url: 'https://arxiv.org/abs/2507.22933',
+    },
+    {
       authors: 'A. Davis, W. Mendoza, D. Leach, O. Marques',
       title: 'Predicting Alzheimer\'s Disease with Multi-Omic Data: A Systematic Review',
       venue: 'Submitted to IEEE Journal of Biomedical and Health Informatics, 2022',
