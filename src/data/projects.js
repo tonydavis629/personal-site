@@ -45,16 +45,6 @@ const data = [
     desc:
       'Detect gravitational waves from space using a convolutional neural network. It was a Kaggle competition entry with an .80 AUC score. We didn\'t win.',
   },
-  {
-    title: 'WinRo',
-    subtitle: 'The creatively named Window Cleaning Robot',
-    link: 'https://github.com/tonydavis629/WinRo',
-    image: '/images/projects/winro_cad.jpg',
-    date: '2016-12-01',
-    desc:
-      'OSU Mechanical Engineering capstone project to design and build a window sill cleaning robot. '
-      + 'It didn\'t work great, but it was a fun project.',
-  },
 ];
 
 export default data;
