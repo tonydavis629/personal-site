@@ -42,7 +42,7 @@ const data = [
   {
     key: 'CSGO',
     label: 'Counter Strike 2 Premier Rank',
-    value: '~18000',
+    value: '~21,000',
     link: 'https://csgorankings.com/profile/76561198043553359',
   },
   {

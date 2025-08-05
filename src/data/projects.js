@@ -54,17 +54,7 @@ const data = [
     desc:
       'OSU Mechanical Engineering capstone project to design and build a window sill cleaning robot. '
       + 'It didn\'t work great, but it was a fun project.',
-  },
-  {
-    title: 'Tumor Cell Extravasation Simulation',
-    subtitle: 'A MATLAB simulation of tumor cell extravasation',
-    link: 'https://github.com/tonydavis629/Tumor-Cell-Extravasation-Simulation',
-    image: '/images/projects/adhesion_c.jpg',
-    date: '2015-05-15',
-    desc:
-      'Receptor ligand kinetics were used to simulate how a tumor cell sticks to and moves through blood vessel walls. '
-      + 'Experimental measurements of zero-force unbinding constants were used to validate the model.',
-  },
+  }
 ];
 
 export default data;
