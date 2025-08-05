@@ -54,7 +54,7 @@ const data = [
     desc:
       'OSU Mechanical Engineering capstone project to design and build a window sill cleaning robot. '
       + 'It didn\'t work great, but it was a fun project.',
-  }
+  },
 ];
 
 export default data;
