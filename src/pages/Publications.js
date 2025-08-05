@@ -4,23 +4,26 @@ import Main from '../layouts/Main';
 import publicationsData from '../data/publications/publications';
 
 const PublicationItem = ({ pub }) => (
-  <p>
-    {pub.authors}, {' '}
-    <a href={pub.url} target="_blank" rel="noopener noreferrer">
-      {pub.title}
-    </a>
-    , {pub.venue}
-    {pub.doi && `, doi: ${pub.doi}`}
-    {pub.doiUrl && (
-      <>
-        {' '}
-        <a href={pub.doiUrl} target="_blank" rel="noopener noreferrer">
-          [doi:{pub.doi}]
-        </a>
-      </>
-    )}
-    {pub.year && `, ${pub.year}`}.
-  </p>
+  <div className="publication-item">
+    <h3 className="publication-title">
+      <a href={pub.url} target="_blank" rel="noopener noreferrer">
+        {pub.title}
+      </a>
+    </h3>
+    <div className="publication-authors">{pub.authors}</div>
+    <div className="publication-venue">
+      {pub.venue}
+      {pub.year && `, ${pub.year}`}
+      {pub.doiUrl && (
+        <>
+          {' · '}
+          <a href={pub.doiUrl} target="_blank" rel="noopener noreferrer">
+            doi:{pub.doi}
+          </a>
+        </>
+      )}
+    </div>
+  </div>
 );
 
 PublicationItem.propTypes = {
@@ -52,10 +55,39 @@ const Publications = () => (
             margin-top: 2rem;
             margin-bottom: 1rem;
           }
-          .post.markdown p {
-            margin-bottom: 1.5rem;
-            line-height: 1.6;
-                    }
+          .publication-item {
+            margin-bottom: 2rem;
+          }
+          .publication-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            margin: 0 0 0.5rem 0;
+            line-height: 1.4;
+          }
+          .publication-title a {
+            color: inherit;
+            text-decoration: none;
+          }
+          .publication-title a:hover {
+            text-decoration: underline;
+          }
+          .publication-authors {
+            color: #666;
+            margin-bottom: 0.25rem;
+            line-height: 1.5;
+          }
+          .publication-venue {
+            color: #888;
+            font-size: 0.95em;
+            line-height: 1.5;
+          }
+          .publication-venue a {
+            color: #666;
+            text-decoration: none;
+          }
+          .publication-venue a:hover {
+            text-decoration: underline;
+          }
         `}
       </style>
 
