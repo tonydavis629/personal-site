@@ -52,8 +52,29 @@ const Publications = () => (
       <style>
         {`
           .post.markdown h2 {
-            margin-top: 2rem;
-            margin-bottom: 1rem;
+            margin-top: 3rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            font-size: 1.8em;
+            font-weight: 300;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            color: #444;
+            position: relative;
+            padding-bottom: 0.5rem;
+          }
+          .post.markdown h2:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 2px;
+            background-color: #ddd;
+          }
+          .post.markdown h2:first-of-type {
+            margin-top: 1rem;
           }
           .publication-item {
             margin-bottom: 2rem;
