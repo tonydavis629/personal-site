@@ -49,6 +49,12 @@ const publicationsData = {
       venue: 'Submitted to IEEE Journal of Biomedical and Health Informatics, 2022',
       url: 'https://www.medrxiv.org/content/10.1101/2022.11.25.22282770v1',
     },
+    {
+      authors: 'Riya Singh, Aryan Amit Barsainyan, Rida Irfan, Connor Joseph Amorin, Stewart He, Tony Davis, Arun Thiagarajan, Shiva Sankaran, Seyone Chithrananda, Walid Ahmad, Derek Jones, Kevin McLoughlin, Hyojin Kim, Anoushka Bhutani, Shreyas Vinaya Sathyanarayana, Venkat Viswanathan, Jonathan E. Allen, Bharath Ramsundar',
+      title: 'ChemBERTa-3: An Open Source Training Framework for Chemical Foundation Models',
+      venue: 'ChemRxiv preprint, 2025',
+      url: 'https://chemrxiv.org/engage/chemrxiv/article-details/688b04ca23be8e43d6fe2c69',
+    },
   ],
 };
 
