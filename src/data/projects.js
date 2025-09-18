@@ -4,7 +4,7 @@ const data = [
     subtitle: 'A simple arxiv -> markdown service',
     link: 'https://markxiv.org',
     image: '/images/projects/markxiv.png',
-    date: '2025-06-08',
+    date: '2025-09-17',
     desc:
       'A simple arxiv -> markdown service',
   },
