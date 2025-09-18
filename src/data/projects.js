@@ -1,7 +1,7 @@
 const data = [
   {
     title: 'markxiv.org',
-    subtitle: 'A privacy focused AI aggregator service',
+    subtitle: 'A simple arxiv -> markdown service',
     link: 'https://markxiv.org',
     image: '/images/projects/markxiv.png',
     date: '2025-06-08',
